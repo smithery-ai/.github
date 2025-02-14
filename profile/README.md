@@ -1,11 +1,10 @@
-Smithery is a registry of [Model Context Protocols](https://modelcontextprotocol.io/), designed to help developers find the right tools to build their AI agentic applications.
+Smithery is a platform to help developers find and ship language model extensions compatible with the [Model Context Protocol Specification](https://modelcontextprotocol.io/). Our mission is to make language models extensions accessible and accelerate the development of agentic AI.
 
 Smithery addresses this challenge by providing:
 
-- A centralized hub for discovering model context protocols
+- A centralized hub for discovering and publishing MCP servers
 - Standardized interfaces for tool integration and configs
-- Easy-to-use resources for agent development
-- Community-driven protocol sharing and collaboration
+- Hosting service for server accessibility
 
 ## Projects
 - Registry website: https://smithery.ai/
