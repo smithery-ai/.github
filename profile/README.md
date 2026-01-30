@@ -8,6 +8,6 @@ Smithery addresses this challenge by providing:
 
 ## Projects
 - Registry website: https://smithery.ai/
-- Documentation: https://github.com/smithery-ai/docs
+- Documentation: https://smithery.ai/docs
 - CLI Installer: https://github.com/smithery-ai/cli
 - SDK: https://github.com/smithery-ai/sdk
